@@ -1,6 +1,8 @@
 WPU makanan
 - mie goreng
   makan di jl.purnama
+   ^pake sosis
 - nasi goreng
+   ^pake ayam
 - geprek
 - bakso

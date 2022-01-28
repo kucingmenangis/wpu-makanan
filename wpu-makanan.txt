@@ -4,6 +4,7 @@ WPU makanan
    ^pake telur
 - nasi goreng
    ^pake mi
+   ^pake telur
 - geprek
 - bakso
 - batagor
